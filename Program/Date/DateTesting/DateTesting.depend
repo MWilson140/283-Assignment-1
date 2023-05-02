@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1681806006 source:f:\sem3\ict283 programming\ass1\q5\date\date.cpp
+	"date.h"
+
+1681801462 f:\sem3\ict283 programming\ass1\q5\date\date.h
+	<string>
+	<sstream>
+	<iostream>
+
+1681806116 source:f:\sem3\ict283 programming\ass1\q5\date\datetesting\main.cpp
+	<iostream>
+	"../Date.h"
+	<string>
+
+1681806006 source:f:\sem3\ict283 programming\ass1\program\date\date.cpp
+	"date.h"
+
+1681979652 f:\sem3\ict283 programming\ass1\program\date\date.h
+
+1681979652 source:f:\sem3\ict283 programming\ass1\program\date\datetesting\main.cpp
+	<iostream>
+	"../Date.h"
+	<string>
+

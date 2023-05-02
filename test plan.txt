@@ -1,0 +1,25 @@
+Date is tested in DateTest
+Time is tested in TimeTest
+Vector is tested in VectorTest
+
+Input File
+data is in other collum
+data is text
+Data is missing (Data,,Data,Data)
+File is missing
+
+At menu
+Text input for year
+(for 1)
+Year with no data
+invalid month but valid year2
+
+Year and Month with no data
+(for 2)
+invalid year
+(for 3)
+invalid year
+(for 4)
+Text input
+invalid year
+invalid at menu

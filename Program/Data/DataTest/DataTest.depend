@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1681791492 source:f:\sem3\ict283 programming\ass1\q5\data\data.cpp
+	"data.h"
+
+1681797258 f:\sem3\ict283 programming\ass1\q5\data\data.h
+	<iostream>
+	<cmath>
+	<fstream>
+	<iterator>
+	<istream>
+	"../Vector/Vector.h"
+
+1681710682 f:\sem3\ict283 programming\ass1\q5\vector\vector.h
+	<iostream>
+
+1681797211 source:f:\sem3\ict283 programming\ass1\q5\data\datatest\main.cpp
+	<iostream>
+	"../Data.h"
+	"../../Vector/Vector.h"
+

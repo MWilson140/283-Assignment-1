@@ -1,0 +1,29 @@
+Assumptions
+Get the daily averages for calculations (mean and standard deviation) and not use all entries.
+Ok for prefered order to be hard coded.
+Ok for attributes in ProcData (and child classes) to be public. (class is used to group data together for overloading functions and parsing data)
+The dates are linear and all there (ie if Janurary and March are present, so is Feburary), it is fine to start on lets say June and end on April. 
+Assumes the dates are valid.
+If a mean would be between 0.1 and -0.1 will just be 0
+If standard deviation would be between 0.1 and 0 will just be 0
+
+What works
+Vector Class bounds checking
+Vector Copy constructor
+Vector = operator
+Date Day checking
+Date Month Checking
+Date Year checking (0-3000)
+Time second checking
+Time Minute checking
+Time hour checking (24 hour format)
+Math functions
+File Opening
+Reading from file
+Console display
+File printing
+
+What does not work
+Standard Deviation does not work for last entry if only one day is recorded for the month.
+Program does not work if the date is invalid
+The max day is 31 if there is no month set. If the day is set to 31, then a 28/29 or 30 day month is tried to be set, it will fail.

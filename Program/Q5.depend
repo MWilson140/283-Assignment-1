@@ -1,0 +1,744 @@
+# depslib dependency file v1.0
+1681279566 source:f:\sem3\ict283 programming\week 5\q5\main.cpp
+	"client.h"
+	<iostream>
+	<fstream>
+	<string>
+	"Date.h"
+	"Time.h"
+	"Vector.h"
+	"WindData.h"
+	"IOFuncts.h"
+	"data.h"
+	<string>
+
+1681279223 f:\sem3\ict283 programming\week 5\q5\date.h
+	<string>
+	<sstream>
+	<iostream>
+
+1680615280 source:f:\sem3\ict283 programming\week 5\q5\date.cpp
+	"date.h"
+
+1681279161 f:\sem3\ict283 programming\week 5\q5\time.h
+
+1681279882 f:\sem3\ict283 programming\week 5\q5\vector.h
+	<iostream>
+
+1680588940 source:f:\sem3\ict283 programming\week 5\q5\time.cpp
+	"Time.h"
+
+1681278004 source:f:\sem3\ict283 programming\week 5\q5\iofuncts.cpp
+	"IOFuncts.h"
+
+1680594172 f:\sem3\ict283 programming\week 5\q5\winddata.h
+	"Date.h"
+	"Time.h"
+	"Vector.h"
+
+1681278716 f:\sem3\ict283 programming\week 5\q5\iofuncts.h
+	"WindData.h"
+	"Time.h"
+	"Date.h"
+	"vector.h"
+	"client.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<istream>
+	<string>
+
+1681278549 source:f:\sem3\ict283 programming\week 5\q5\data.cpp
+	"data.h"
+
+1681278687 f:\sem3\ict283 programming\week 5\q5\data.h
+	<iostream>
+	<cmath>
+	<fstream>
+	<iterator>
+	<istream>
+
+1681278405 f:\sem3\ict283 programming\week 5\q5\client.h
+	"vector.h"
+	"winddata.h"
+	<string>
+	<cmath>
+
+1680684378 source:f:\sem3\ict283 programming\week 5\q5\client.cpp
+	"client.h"
+
+1680683137 source:e:\sem3\ict283 programming\week 5\q5\client.cpp
+	"client.h"
+
+1680682608 e:\sem3\ict283 programming\week 5\q5\client.h
+	"vector.h"
+	"winddata.h"
+	<string>
+	<cmath>
+
+1680659308 e:\sem3\ict283 programming\week 5\q5\vector.h
+	<iostream>
+
+1680594172 e:\sem3\ict283 programming\week 5\q5\winddata.h
+	"Date.h"
+	"Time.h"
+	"Vector.h"
+
+1680614605 e:\sem3\ict283 programming\week 5\q5\date.h
+	<string>
+	<sstream>
+	<iostream>
+
+1680613595 e:\sem3\ict283 programming\week 5\q5\time.h
+
+1680680324 source:e:\sem3\ict283 programming\week 5\q5\data.cpp
+	"data.h"
+
+1680684022 e:\sem3\ict283 programming\week 5\q5\data.h
+	<iostream>
+	<cmath>
+	<fstream>
+	<iterator>
+	<istream>
+
+1680615280 source:e:\sem3\ict283 programming\week 5\q5\date.cpp
+	"date.h"
+
+1680683239 source:e:\sem3\ict283 programming\week 5\q5\iofuncts.cpp
+	"IOFuncts.h"
+
+1680682964 e:\sem3\ict283 programming\week 5\q5\iofuncts.h
+	"WindData.h"
+	"Time.h"
+	"Date.h"
+	"vector.h"
+	"client.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<istream>
+	<string>
+
+1680588940 source:e:\sem3\ict283 programming\week 5\q5\time.cpp
+	"Time.h"
+
+1680682785 source:e:\sem3\ict283 programming\week 5\q5\main.cpp
+	"client.h"
+	<iostream>
+	<fstream>
+	<string>
+	"Date.h"
+	"Time.h"
+	"Vector.h"
+	"WindData.h"
+	"IOFuncts.h"
+	"data.h"
+	<string>
+
+1681358328 source:f:\sem3\ict283 programming\week 6\q5\main.cpp
+	"Client/client.h"
+	<iostream>
+	<fstream>
+	<string>
+	"Date/Date.h"
+	"Time/Time.h"
+	"Vector/Vector.h"
+	"WindData/WindData.h"
+	"IoFuncts/IOFuncts.h"
+	"Data/data.h"
+	"dailyData/dailyData.h"
+	<string>
+
+1681278549 source:f:\sem3\ict283 programming\week 6\q5\data\data.cpp
+	"data.h"
+
+1681278687 f:\sem3\ict283 programming\week 6\q5\data\data.h
+	<iostream>
+	<cmath>
+	<fstream>
+	<iterator>
+	<istream>
+
+1681282441 source:f:\sem3\ict283 programming\week 6\q5\date\date.cpp
+	"date.h"
+
+1681282367 f:\sem3\ict283 programming\week 6\q5\date\date.h
+	<string>
+	<sstream>
+	<iostream>
+
+1681282513 source:f:\sem3\ict283 programming\week 6\q5\time\time.cpp
+	"Time.h"
+
+1681282457 f:\sem3\ict283 programming\week 6\q5\time\time.h
+
+1681358396 source:f:\sem3\ict283 programming\week 6\q5\client\client.cpp
+	"client.h"
+
+1681358249 f:\sem3\ict283 programming\week 6\q5\client\client.h
+	"../Vector/Vector.h"
+	"../windData/winddata.h"
+	"../dailyData/dailyData.h"
+	<string>
+	<cmath>
+	<iostream>
+	<fstream>
+
+1681292733 f:\sem3\ict283 programming\week 6\q5\vector\vector.h
+	<iostream>
+
+1681357081 f:\sem3\ict283 programming\week 6\q5\winddata\winddata.h
+	"../Date/Date.h"
+	"../Time/Time.h"
+	"../Vector/Vector.h"
+
+1681282774 source:f:\sem3\ict283 programming\week 6\q5\iofuncts\iofuncts.cpp
+	"IOFuncts.h"
+
+1681290366 f:\sem3\ict283 programming\week 6\q5\iofuncts\iofuncts.h
+	"../WindData/WindData.h"
+	"../Time/Time.h"
+	"../Date/Date.h"
+	"../Vector/vector.h"
+	"../Client/client.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<istream>
+	<string>
+
+1681357605 f:\sem3\ict283 programming\week 6\q5\dailydata\dailydata.h
+
+1681965801 source:f:\sem3\ict283 programming\ass1\q5\client\client.cpp
+	"client.h"
+
+1681902914 f:\sem3\ict283 programming\ass1\q5\client\client.h
+	"../Vector/Vector.h"
+	"../windData/winddata.h"
+	"../dailyData/dailyData.h"
+	"../ProcData/ProcData.h"
+	"../ProcData/WindProcData.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1681960727 f:\sem3\ict283 programming\ass1\q5\vector\vector.h
+
+1681357081 f:\sem3\ict283 programming\ass1\q5\winddata\winddata.h
+	"../Date/Date.h"
+	"../Time/Time.h"
+	"../Vector/Vector.h"
+
+1681902532 f:\sem3\ict283 programming\ass1\q5\date\date.h
+
+1681807016 f:\sem3\ict283 programming\ass1\q5\time\time.h
+
+1681815121 f:\sem3\ict283 programming\ass1\q5\dailydata\dailydata.h
+	"../Time/Time.h"
+	"../Date/Date.h"
+	"../Vector/vector.h"
+
+1681278549 source:f:\sem3\ict283 programming\ass1\q5\data\data.cpp
+	"data.h"
+
+1681902586 f:\sem3\ict283 programming\ass1\q5\data\data.h
+	<cmath>
+	"../Vector/Vector.h"
+
+1681806006 source:f:\sem3\ict283 programming\ass1\q5\date\date.cpp
+	"date.h"
+
+1681967808 source:f:\sem3\ict283 programming\ass1\q5\iofuncts\iofuncts.cpp
+	"IOFuncts.h"
+
+1681905471 f:\sem3\ict283 programming\ass1\q5\iofuncts\iofuncts.h
+	"../WindData/WindData.h"
+	"../Time/Time.h"
+	"../Date/Date.h"
+	"../Vector/vector.h"
+	"../Client/client.h"
+	"../dailyData/dailyData.h"
+	"../ProcData/AirProcData.h"
+	"../ProcData/ProcData.h"
+	"../ProcData/RadProcData.h"
+	"../ProcData/WindProcData.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<istream>
+	<string>
+
+1681968019 source:f:\sem3\ict283 programming\ass1\q5\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Client/client.h"
+	"Date/Date.h"
+	"Time/Time.h"
+	"Vector/Vector.h"
+	"IoFuncts/IOFuncts.h"
+	"Data/data.h"
+	"dailyData/dailyData.h"
+	"ProcData/ProcData.h"
+	"ProcData/AirProcData.h"
+	"ProcData/WindProcData.h"
+	"ProcData/RadProcData.h"
+	<typeinfo>
+
+1681711758 source:f:\sem3\ict283 programming\ass1\q5\time\time.cpp
+	"Time.h"
+
+1681902611 f:\sem3\ict283 programming\ass1\q5\procdata\procdata.h
+	"../Vector/Vector.h"
+	"../dailyData/dailyData.h"
+	"../Data/Data.h"
+
+1681902248 f:\sem3\ict283 programming\ass1\q5\procdata\airprocdata.h
+	"procdata.h"
+
+1681619804 source:f:\sem3\ict283 programming\ass1\q5\procdata\procdata.cpp
+	"procdata.h"
+
+1681901898 source:f:\sem3\ict283 programming\ass1\q5\procdata\airprocdata.cpp
+	"AirProcData.h"
+
+1681901857 f:\sem3\ict283 programming\ass1\q5\procdata\windprocdata.h
+	"procdata.h"
+
+1681901912 source:f:\sem3\ict283 programming\ass1\q5\procdata\windprocdata.cpp
+	"windprocdata.h"
+
+1681902627 f:\sem3\ict283 programming\ass1\q5\procdata\radprocdata.h
+	"procData.h"
+
+1681901865 source:f:\sem3\ict283 programming\ass1\q5\procdata\radprocdata.cpp
+	"RadProcData.h"
+
+1681815213 source:f:\sem3\ict283 programming\ass1\q5\dailydata\dailydata.cpp
+	"dailyData.h"
+
+1681890035 source:e:\sem3\ict283 programming\ass1\q5\client\client.cpp
+	"client.h"
+
+1681888677 e:\sem3\ict283 programming\ass1\q5\client\client.h
+	"../Vector/Vector.h"
+	"../windData/winddata.h"
+	"../dailyData/dailyData.h"
+	"../ProcData/ProcData.h"
+	"../ProcData/WindProcData.h"
+	<string>
+	<cmath>
+	<iostream>
+	<fstream>
+
+1681890792 e:\sem3\ict283 programming\ass1\q5\vector\vector.h
+	<iostream>
+
+1681357081 e:\sem3\ict283 programming\ass1\q5\winddata\winddata.h
+	"../Date/Date.h"
+	"../Time/Time.h"
+	"../Vector/Vector.h"
+
+1681801462 e:\sem3\ict283 programming\ass1\q5\date\date.h
+	<string>
+	<sstream>
+	<iostream>
+
+1681807016 e:\sem3\ict283 programming\ass1\q5\time\time.h
+
+1681815121 e:\sem3\ict283 programming\ass1\q5\dailydata\dailydata.h
+	"../Time/Time.h"
+	"../Date/Date.h"
+	"../Vector/vector.h"
+
+1681888682 e:\sem3\ict283 programming\ass1\q5\procdata\procdata.h
+	"../Vector/Vector.h"
+	"../dailyData/dailyData.h"
+	"../Data/Data.h"
+	<math.h>
+
+1681797258 e:\sem3\ict283 programming\ass1\q5\data\data.h
+	<iostream>
+	<cmath>
+	<fstream>
+	<iterator>
+	<istream>
+	"../Vector/Vector.h"
+
+1681790565 e:\sem3\ict283 programming\ass1\q5\procdata\windprocdata.h
+	"procdata.h"
+
+1681815213 source:e:\sem3\ict283 programming\ass1\q5\dailydata\dailydata.cpp
+	"dailyData.h"
+
+1681806006 source:e:\sem3\ict283 programming\ass1\q5\date\date.cpp
+	"date.h"
+
+1681891863 source:e:\sem3\ict283 programming\ass1\q5\iofuncts\iofuncts.cpp
+	"IOFuncts.h"
+
+1681891869 e:\sem3\ict283 programming\ass1\q5\iofuncts\iofuncts.h
+	"../WindData/WindData.h"
+	"../Time/Time.h"
+	"../Date/Date.h"
+	"../Vector/vector.h"
+	"../Client/client.h"
+	"../dailyData/dailyData.h"
+	"../ProcData/AirProcData.h"
+	"../ProcData/ProcData.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<istream>
+	<string>
+
+1681890061 source:e:\sem3\ict283 programming\ass1\q5\procdata\airprocdata.cpp
+	"AirProcData.h"
+
+1681790599 e:\sem3\ict283 programming\ass1\q5\procdata\airprocdata.h
+	"procdata.h"
+
+1681619804 source:e:\sem3\ict283 programming\ass1\q5\procdata\procdata.cpp
+	"procdata.h"
+
+1681890051 source:e:\sem3\ict283 programming\ass1\q5\procdata\radprocdata.cpp
+	"RadProcData.h"
+
+1681790605 e:\sem3\ict283 programming\ass1\q5\procdata\radprocdata.h
+	"procData.h"
+
+1681890058 source:e:\sem3\ict283 programming\ass1\q5\procdata\windprocdata.cpp
+	"windprocdata.h"
+
+1681711758 source:e:\sem3\ict283 programming\ass1\q5\time\time.cpp
+	"Time.h"
+
+1681891888 source:e:\sem3\ict283 programming\ass1\q5\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Client/client.h"
+	"Date/Date.h"
+	"Time/Time.h"
+	"Vector/Vector.h"
+	"IoFuncts/IOFuncts.h"
+	"Data/data.h"
+	"dailyData/dailyData.h"
+	"ProcData/ProcData.h"
+	"ProcData/AirProcData.h"
+	"ProcData/WindProcData.h"
+	"ProcData/RadProcData.h"
+
+1681965801 source:f:\sem3\ict283 programming\ass1\program\client\client.cpp
+	"client.h"
+
+1681902914 f:\sem3\ict283 programming\ass1\program\client\client.h
+	"../Vector/Vector.h"
+	"../windData/winddata.h"
+	"../dailyData/dailyData.h"
+	"../ProcData/ProcData.h"
+	"../ProcData/WindProcData.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1681960727 f:\sem3\ict283 programming\ass1\program\vector\vector.h
+
+1681357081 f:\sem3\ict283 programming\ass1\program\winddata\winddata.h
+	"../Date/Date.h"
+	"../Time/Time.h"
+	"../Vector/Vector.h"
+
+1681902532 f:\sem3\ict283 programming\ass1\program\date\date.h
+
+1681807016 f:\sem3\ict283 programming\ass1\program\time\time.h
+
+1681815121 f:\sem3\ict283 programming\ass1\program\dailydata\dailydata.h
+	"../Time/Time.h"
+	"../Date/Date.h"
+	"../Vector/vector.h"
+
+1681902611 f:\sem3\ict283 programming\ass1\program\procdata\procdata.h
+	"../Vector/Vector.h"
+	"../dailyData/dailyData.h"
+	"../Data/Data.h"
+
+1681902586 f:\sem3\ict283 programming\ass1\program\data\data.h
+	<cmath>
+	"../Vector/Vector.h"
+
+1681901857 f:\sem3\ict283 programming\ass1\program\procdata\windprocdata.h
+	"procdata.h"
+
+1681815213 source:f:\sem3\ict283 programming\ass1\program\dailydata\dailydata.cpp
+	"dailyData.h"
+
+1681806006 source:f:\sem3\ict283 programming\ass1\program\date\date.cpp
+	"date.h"
+
+1681973974 source:f:\sem3\ict283 programming\ass1\program\iofuncts\iofuncts.cpp
+	"IOFuncts.h"
+
+1681905471 f:\sem3\ict283 programming\ass1\program\iofuncts\iofuncts.h
+	"../WindData/WindData.h"
+	"../Time/Time.h"
+	"../Date/Date.h"
+	"../Vector/vector.h"
+	"../Client/client.h"
+	"../dailyData/dailyData.h"
+	"../ProcData/AirProcData.h"
+	"../ProcData/ProcData.h"
+	"../ProcData/RadProcData.h"
+	"../ProcData/WindProcData.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<istream>
+	<string>
+
+1681902248 f:\sem3\ict283 programming\ass1\program\procdata\airprocdata.h
+	"procdata.h"
+
+1681902627 f:\sem3\ict283 programming\ass1\program\procdata\radprocdata.h
+	"procData.h"
+
+1681968019 source:f:\sem3\ict283 programming\ass1\program\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Client/client.h"
+	"Date/Date.h"
+	"Time/Time.h"
+	"Vector/Vector.h"
+	"IoFuncts/IOFuncts.h"
+	"Data/data.h"
+	"dailyData/dailyData.h"
+	"ProcData/ProcData.h"
+	"ProcData/AirProcData.h"
+	"ProcData/WindProcData.h"
+	"ProcData/RadProcData.h"
+	<typeinfo>
+
+1681901898 source:f:\sem3\ict283 programming\ass1\program\procdata\airprocdata.cpp
+	"AirProcData.h"
+
+1681619804 source:f:\sem3\ict283 programming\ass1\program\procdata\procdata.cpp
+	"procdata.h"
+
+1681901865 source:f:\sem3\ict283 programming\ass1\program\procdata\radprocdata.cpp
+	"RadProcData.h"
+
+1681901912 source:f:\sem3\ict283 programming\ass1\program\procdata\windprocdata.cpp
+	"windprocdata.h"
+
+1681711758 source:f:\sem3\ict283 programming\ass1\program\time\time.cpp
+	"Time.h"
+
+1681815213 source:f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\dailydata\dailydata.cpp
+	"dailyData.h"
+
+1681815121 f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\dailydata\dailydata.h
+	"../Time/Time.h"
+	"../Date/Date.h"
+	"../Vector/vector.h"
+
+1681807016 f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\time\time.h
+
+1682064982 f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\date\date.h
+
+1681977533 f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\vector\vector.h
+
+1682064982 source:f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\date\date.cpp
+	"date.h"
+
+1681973974 source:f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\iofuncts\iofuncts.cpp
+	"IOFuncts.h"
+
+1681905471 f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\iofuncts\iofuncts.h
+	"../WindData/WindData.h"
+	"../Time/Time.h"
+	"../Date/Date.h"
+	"../Vector/vector.h"
+	"../Client/client.h"
+	"../dailyData/dailyData.h"
+	"../ProcData/AirProcData.h"
+	"../ProcData/ProcData.h"
+	"../ProcData/RadProcData.h"
+	"../ProcData/WindProcData.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<istream>
+	<string>
+
+1681357081 f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\winddata\winddata.h
+	"../Date/Date.h"
+	"../Time/Time.h"
+	"../Vector/Vector.h"
+
+1682065277 f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\client\client.h
+	"../Vector/Vector.h"
+	"../windData/winddata.h"
+	"../dailyData/dailyData.h"
+	"../ProcData/ProcData.h"
+	"../ProcData/WindProcData.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1682065710 f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\procdata\procdata.h
+	"../Vector/Vector.h"
+	"../dailyData/dailyData.h"
+	"../Data/Data.h"
+
+1681902586 f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\data\data.h
+	<cmath>
+	"../Vector/Vector.h"
+
+1681901857 f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\procdata\windprocdata.h
+	"procdata.h"
+
+1681902248 f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\procdata\airprocdata.h
+	"procdata.h"
+
+1681902627 f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\procdata\radprocdata.h
+	"procData.h"
+
+1682064735 source:f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Client/client.h"
+	"Date/Date.h"
+	"Time/Time.h"
+	"Vector/Vector.h"
+	"IoFuncts/IOFuncts.h"
+	"Data/data.h"
+	"dailyData/dailyData.h"
+	"ProcData/ProcData.h"
+	"ProcData/AirProcData.h"
+	"ProcData/WindProcData.h"
+	"ProcData/RadProcData.h"
+
+1681901898 source:f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\procdata\airprocdata.cpp
+	"AirProcData.h"
+
+1682064383 source:f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\procdata\procdata.cpp
+	"procdata.h"
+
+1681901865 source:f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\procdata\radprocdata.cpp
+	"RadProcData.h"
+
+1681901912 source:f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\procdata\windprocdata.cpp
+	"windprocdata.h"
+
+1681711758 source:f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\time\time.cpp
+	"Time.h"
+
+1682065007 source:f:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\client\client.cpp
+	"client.h"
+
+1682065007 source:e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\client\client.cpp
+	"client.h"
+
+1682065277 e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\client\client.h
+	"../Vector/Vector.h"
+	"../windData/winddata.h"
+	"../dailyData/dailyData.h"
+	"../ProcData/ProcData.h"
+	"../ProcData/WindProcData.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1682494398 e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\vector\vector.h
+
+1681357081 e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\winddata\winddata.h
+	"../Date/Date.h"
+	"../Time/Time.h"
+	"../Vector/Vector.h"
+
+1682064982 e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\date\date.h
+
+1681807016 e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\time\time.h
+
+1681815121 e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\dailydata\dailydata.h
+	"../Time/Time.h"
+	"../Date/Date.h"
+	"../Vector/vector.h"
+
+1682065710 e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\procdata\procdata.h
+	"../Vector/Vector.h"
+	"../dailyData/dailyData.h"
+	"../Data/Data.h"
+
+1681902586 e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\data\data.h
+	<cmath>
+	"../Vector/Vector.h"
+
+1681901857 e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\procdata\windprocdata.h
+	"procdata.h"
+
+1681815213 source:e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\dailydata\dailydata.cpp
+	"dailyData.h"
+
+1682064982 source:e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\date\date.cpp
+	"date.h"
+
+1681973974 source:e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\iofuncts\iofuncts.cpp
+	"IOFuncts.h"
+
+1681905471 e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\iofuncts\iofuncts.h
+	"../WindData/WindData.h"
+	"../Time/Time.h"
+	"../Date/Date.h"
+	"../Vector/vector.h"
+	"../Client/client.h"
+	"../dailyData/dailyData.h"
+	"../ProcData/AirProcData.h"
+	"../ProcData/ProcData.h"
+	"../ProcData/RadProcData.h"
+	"../ProcData/WindProcData.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<istream>
+	<string>
+
+1681902248 e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\procdata\airprocdata.h
+	"procdata.h"
+
+1681902627 e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\procdata\radprocdata.h
+	"procData.h"
+
+1682492992 source:e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Client/client.h"
+	"Date/Date.h"
+	"Time/Time.h"
+	"Vector/Vector.h"
+	"IoFuncts/IOFuncts.h"
+	"Data/data.h"
+	"dailyData/dailyData.h"
+	"ProcData/ProcData.h"
+	"ProcData/AirProcData.h"
+	"ProcData/WindProcData.h"
+	"ProcData/RadProcData.h"
+
+1681901898 source:e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\procdata\airprocdata.cpp
+	"AirProcData.h"
+
+1682064383 source:e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\procdata\procdata.cpp
+	"procdata.h"
+
+1681901865 source:e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\procdata\radprocdata.cpp
+	"RadProcData.h"
+
+1681901912 source:e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\procdata\windprocdata.cpp
+	"windprocdata.h"
+
+1681711758 source:e:\sem3\ict283 programming\mitchell wilson - 34497163 assignment 1\program\time\time.cpp
+	"Time.h"
+

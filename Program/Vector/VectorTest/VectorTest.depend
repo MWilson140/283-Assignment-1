@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1681290588 source:f:\sem3\ict283 programming\week 6\q5\vectortest\vectortest\main.cpp
+	<iostream>
+	<string>
+	"../../Vector/Vector.h"
+	"../../Date/Date.h"
+	"../../Time/Time.h"
+	"funct.h"
+
+1681292733 f:\sem3\ict283 programming\week 6\q5\vector\vector.h
+	<iostream>
+
+1681282367 f:\sem3\ict283 programming\week 6\q5\date\date.h
+	<string>
+	<sstream>
+	<iostream>
+
+1681282457 f:\sem3\ict283 programming\week 6\q5\time\time.h
+
+1681290599 f:\sem3\ict283 programming\week 6\q5\vectortest\vectortest\funct.h
+	<iostream>
+	<fstream>
+	<istream>
+	"../../Vector/Vector.h"
+	"../../Date/Date.h"
+	"../../Time/Time.h"
+
+1681290513 source:f:\sem3\ict283 programming\week 6\q5\vectortest\vectortest\funct.cpp
+	"funct.h"
+
+1681290366 f:\sem3\ict283 programming\week 6\q5\iofuncts\iofuncts.h
+	"../WindData/WindData.h"
+	"../Time/Time.h"
+	"../Date/Date.h"
+	"../Vector/vector.h"
+	"../Client/client.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<istream>
+	<string>
+
+1681281214 f:\sem3\ict283 programming\week 6\q5\winddata\winddata.h
+	"../Date/Date.h"
+	"../Time/Time.h"
+	"../Vector/Vector.h"
+
+1681281138 f:\sem3\ict283 programming\week 6\q5\client\client.h
+	"../Vector/Vector.h"
+	"../windData/winddata.h"
+	<string>
+	<cmath>
+
+1681282441 f:\sem3\ict283 programming\week 6\q5\date\date.cpp
+	"date.h"
+
+1681282441 source:f:\sem3\ict283 programming\week 6\q5\date\date.cpp
+	"date.h"
+
+1681282774 source:f:\sem3\ict283 programming\week 6\q5\iofuncts\iofuncts.cpp
+	"IOFuncts.h"
+
+1681282513 source:f:\sem3\ict283 programming\week 6\q5\time\time.cpp
+	"Time.h"
+
+1681806006 source:f:\sem3\ict283 programming\ass1\q5\date\date.cpp
+	"date.h"
+
+1681902532 f:\sem3\ict283 programming\ass1\q5\date\date.h
+
+1681711758 source:f:\sem3\ict283 programming\ass1\q5\time\time.cpp
+	"Time.h"
+
+1681807016 f:\sem3\ict283 programming\ass1\q5\time\time.h
+
+1681729404 source:f:\sem3\ict283 programming\ass1\q5\vector\vectortest\funct.cpp
+	"funct.h"
+
+1681960648 f:\sem3\ict283 programming\ass1\q5\vector\vectortest\funct.h
+	<iostream>
+	<fstream>
+	<istream>
+	<sstream>
+	"../../Vector/Vector.h"
+	"../../Date/Date.h"
+	"../../Time/Time.h"
+
+1681960727 f:\sem3\ict283 programming\ass1\q5\vector\vector.h
+
+1681960555 source:f:\sem3\ict283 programming\ass1\q5\vector\vectortest\main.cpp
+	<iostream>
+	<string>
+	"../../Vector/Vector.h"
+	"../../Date/Date.h"
+	"../../Time/Time.h"
+	"funct.h"
+
+1681806006 source:f:\sem3\ict283 programming\ass1\program\date\date.cpp
+	"date.h"
+
+1681902532 f:\sem3\ict283 programming\ass1\program\date\date.h
+
+1681711758 source:f:\sem3\ict283 programming\ass1\program\time\time.cpp
+	"Time.h"
+
+1681807016 f:\sem3\ict283 programming\ass1\program\time\time.h
+
+1681729404 source:f:\sem3\ict283 programming\ass1\program\vector\vectortest\funct.cpp
+	"funct.h"
+
+1681960648 f:\sem3\ict283 programming\ass1\program\vector\vectortest\funct.h
+	<iostream>
+	<fstream>
+	<istream>
+	<sstream>
+	"../../Vector/Vector.h"
+	"../../Date/Date.h"
+	"../../Time/Time.h"
+
+1681977533 f:\sem3\ict283 programming\ass1\program\vector\vector.h
+
+1681978856 source:f:\sem3\ict283 programming\ass1\program\vector\vectortest\main.cpp
+	<iostream>
+	<string>
+	"../../Vector/Vector.h"
+	"../../Date/Date.h"
+	"../../Time/Time.h"
+	"funct.h"
+

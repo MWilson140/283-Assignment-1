@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1681445912 source:f:\sem3\ict283 programming\ass1\q5\dailydata\dailydata.cpp
+	"dailyData.h"
+
+1681790490 f:\sem3\ict283 programming\ass1\q5\dailydata\dailydata.h
+	"../Time/Time.h"
+	"../Date/Date.h"
+	"../Vector/vector.h"
+
+1681725539 f:\sem3\ict283 programming\ass1\q5\time\time.h
+
+1681725560 f:\sem3\ict283 programming\ass1\q5\date\date.h
+	<string>
+	<sstream>
+	<iostream>
+
+1681710682 f:\sem3\ict283 programming\ass1\q5\vector\vector.h
+	<iostream>
+
+1681791175 source:f:\sem3\ict283 programming\ass1\q5\dailydata\dailydatatest\main.cpp
+	<iostream>
+	<string>
+	"../dailyData.h"
+	"../../Time/Time.h"
+	"../../Date/Date.h"
+
+1681725718 source:f:\sem3\ict283 programming\ass1\q5\date\date.cpp
+	"date.h"
+
+1681711758 source:f:\sem3\ict283 programming\ass1\q5\time\time.cpp
+	"Time.h"
+

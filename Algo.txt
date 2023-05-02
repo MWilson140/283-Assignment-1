@@ -1,0 +1,84 @@
+
+Algo
+OpenFile(File Name)
+GetFormat(File)	
+SetKey(Input format)
+ReadLine(File)
+StoreInfo(Input Information)
+LoopTillDone
+Menu()
+If 1 
+	GetMonth()
+	GetYear()
+	FindStart(Month, Year, RawData)
+	FindEnd(Month, Year, RawData)
+	GetWindSpeed (start, end, RawData)
+	PrintToConsole(Processed Data)
+If 2 
+	GetYear()
+	FindStart(Month, Year, RawData)
+	FindEnd(Month, Year, RawData)
+	GetAllAmbientAir(start, end, RawData)
+	PrintToConsole(Processed Data)
+If 3
+	GetYear()
+	FindStart(Month, Year, RawData)
+	FindEnd(Month, Year, RawData)
+	GetAllRad(Start, End, RawData)
+	PrintToConsole(Processed Data)
+If 4
+	GetYear()
+	FindStart (Month, Year, RawData)
+FindEnd(Month, Year, RawData)
+	GetAllWindSpeed(Start, End, RawData)
+	GetAllAmbientAir(Start, end, RawData)
+	GetAllRad(Start, end, RawData)
+	PrintToFile(Processed data)
+If 5
+	Exit()
+
+Open File()
+	Open file
+	If not opened exit
+GetFormat()
+	Read First line
+	Split and Store into Vector
+SetKey()
+	Iterate over the Key array
+		Iterate over User input array
+			When user input == File Input	
+			Key[] = i
+ReadLine()
+	Read a line
+	Split and store into vector
+StoreInfo()
+	Store info into class using key
+Menu()
+	Display the menu
+GetMonth()
+	Get a month from the user
+GetYear()
+	Get a year from the user
+FindStart
+	Iterate over RawData Vector
+	While Month != UserMonth && Year !=UserYear
+		Start++
+	Return Start
+FindEnd
+	Starting from start Iterate over RawData
+	While Month==UserMonth && Year==UserYear
+		End++
+	Return end
+GetWindSpeed()
+	From start to end
+	Store WindSpeed Into vector
+GetAllAmbientAir()
+	From start to end
+	Store AmbientAirTemp into vector
+GetAllRad()
+	From start to end
+	Store Rad into vector
+PrintToConsole()
+	Display the information
+PrintToFile()
+	Print Information to file

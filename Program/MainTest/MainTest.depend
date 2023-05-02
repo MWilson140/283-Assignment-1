@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1681967661 source:f:\sem3\ict283 programming\ass1\q5\maintest\main.cpp
+	<iostream>
+	"../Client/client.h"
+	"../Date/Date.h"
+	"../Time/Time.h"
+	"../Vector/Vector.h"
+	"../IoFuncts/IOFuncts.h"
+	"../Data/data.h"
+	"../dailyData/dailyData.h"
+	"../ProcData/ProcData.h"
+	"../ProcData/AirProcData.h"
+	"../ProcData/WindProcData.h"
+	"../ProcData/RadProcData.h"
+
+1681902914 f:\sem3\ict283 programming\ass1\q5\client\client.h
+	"../Vector/Vector.h"
+	"../windData/winddata.h"
+	"../dailyData/dailyData.h"
+	"../ProcData/ProcData.h"
+	"../ProcData/WindProcData.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1681960727 f:\sem3\ict283 programming\ass1\q5\vector\vector.h
+
+1681357081 f:\sem3\ict283 programming\ass1\q5\winddata\winddata.h
+	"../Date/Date.h"
+	"../Time/Time.h"
+	"../Vector/Vector.h"
+
+1681902532 f:\sem3\ict283 programming\ass1\q5\date\date.h
+
+1681807016 f:\sem3\ict283 programming\ass1\q5\time\time.h
+
+1681815121 f:\sem3\ict283 programming\ass1\q5\dailydata\dailydata.h
+	"../Time/Time.h"
+	"../Date/Date.h"
+	"../Vector/vector.h"
+
+1681902611 f:\sem3\ict283 programming\ass1\q5\procdata\procdata.h
+	"../Vector/Vector.h"
+	"../dailyData/dailyData.h"
+	"../Data/Data.h"
+
+1681902586 f:\sem3\ict283 programming\ass1\q5\data\data.h
+	<cmath>
+	"../Vector/Vector.h"
+
+1681901857 f:\sem3\ict283 programming\ass1\q5\procdata\windprocdata.h
+	"procdata.h"
+
+1681905471 f:\sem3\ict283 programming\ass1\q5\iofuncts\iofuncts.h
+	"../WindData/WindData.h"
+	"../Time/Time.h"
+	"../Date/Date.h"
+	"../Vector/vector.h"
+	"../Client/client.h"
+	"../dailyData/dailyData.h"
+	"../ProcData/AirProcData.h"
+	"../ProcData/ProcData.h"
+	"../ProcData/RadProcData.h"
+	"../ProcData/WindProcData.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<istream>
+	<string>
+
+1681902248 f:\sem3\ict283 programming\ass1\q5\procdata\airprocdata.h
+	"procdata.h"
+
+1681902627 f:\sem3\ict283 programming\ass1\q5\procdata\radprocdata.h
+	"procData.h"
+
+1681965801 source:f:\sem3\ict283 programming\ass1\q5\client\client.cpp
+	"client.h"
+
+1681806006 source:f:\sem3\ict283 programming\ass1\q5\date\date.cpp
+	"date.h"
+
+1681711758 source:f:\sem3\ict283 programming\ass1\q5\time\time.cpp
+	"Time.h"
+
+1681815213 source:f:\sem3\ict283 programming\ass1\q5\dailydata\dailydata.cpp
+	"dailyData.h"
+
+1681967650 source:f:\sem3\ict283 programming\ass1\q5\iofuncts\iofuncts.cpp
+	"IOFuncts.h"
+

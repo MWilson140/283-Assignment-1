@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1681711758 source:f:\sem3\ict283 programming\ass1\q5\time\time.cpp
+	"Time.h"
+
+1681807016 f:\sem3\ict283 programming\ass1\q5\time\time.h
+
+1681806989 source:f:\sem3\ict283 programming\ass1\q5\time\timetest\main.cpp
+	<iostream>
+	<string>
+	"../Time.h"
+
+1681711758 source:f:\sem3\ict283 programming\ass1\program\time\time.cpp
+	"Time.h"
+
+1681807016 f:\sem3\ict283 programming\ass1\program\time\time.h
+
+1681807096 source:f:\sem3\ict283 programming\ass1\program\time\timetest\main.cpp
+	<iostream>
+	<string>
+	"../Time.h"
+
